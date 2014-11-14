@@ -21,7 +21,7 @@ Seyren ([/ˈsaɪ.rʌn/](http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#K
 [![Build Status](https://travis-ci.org/scobal/seyren.svg?branch=master)](https://travis-ci.org/scobal/seyren)
 [![Gitter chat](https://badges.gitter.im/scobal/seyren.png)](https://gitter.im/scobal/seyren)
 
-###Prerequisites
+###Pre-requisites
 
 * An instance of Graphite
 * MongoDB ([Install instructions](http://docs.mongodb.org/manual/installation/#installation-guides Installing MongoDB))
